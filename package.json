@@ -6,6 +6,7 @@
   "homepage": "https://github.com/thomas-alrek/mapkit-vue",
   "main": "dist/mapkit-vue.min.js",
   "private": false,
+  "license": "MIT",
   "scripts": {
     "init": "curl -u 'thomas-alrek' https://api.github.com/user/repos -d '{\"name\":\"mapkit-vue\"}'",
     "init:private": "curl -u 'thomas-alrek' https://api.github.com/user/repos -d '{\"name\":\"mapkit-vue\", \"private\":true}'",

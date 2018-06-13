@@ -4,6 +4,7 @@
   "description": "A Vue library for Apple Mapkit",
   "author": "Thomas Alrek <thomas@alrek.no>",
   "homepage": "https://github.com/thomas-alrek/mapkit-vue",
+  "main": "dist/mapkit-vue.min.js",
   "private": false,
   "scripts": {
     "init": "curl -u 'thomas-alrek' https://api.github.com/user/repos -d '{\"name\":\"mapkit-vue\"}'",

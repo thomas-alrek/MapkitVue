@@ -1,8 +1,10 @@
 # mapkit-vue
 [![Coverage Status](https://coveralls.io/repos/github/thomas-alrek/mapkit-vue/badge.svg?branch=master)](https://coveralls.io/github/thomas-alrek/mapkit-vue?branch=master)
-[![Latest Stable Version](https://img.shields.io/npm/v/thomas-alrek/mapkit-vue.svg)](https://www.npmjs.com/package/thomas-alrek/mapkit-vue)
+[![Latest Stable Version](https://img.shields.io/npm/v/mapkit-vue.svg)](https://www.npmjs.com/package/mapkit-vue)
 
 > A Vue library for Apple Mapkit
+
+This project is under active development and is not yet ready for production
 
 ## Table of Contents
 - [Installation](#installation)

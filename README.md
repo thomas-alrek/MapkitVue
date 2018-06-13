@@ -21,6 +21,8 @@ npm install -S mapkit-vue
 
 ## Usage
 
+Please follow the official [MapkitJS documentation](https://developer.apple.com/maps/mapkitjs/) to setup your API credentials.
+
 ``` js
 import Vue from 'vue';
 import MapkitVue from 'mapkit-vue';
